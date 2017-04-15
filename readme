@@ -1,0 +1,11 @@
+Pre reqs
+- PHP 5.5 +
+- MySQL 5.3 +
+
+Instructions
+1) Copy files to the web application server directory
+2) Run worldcuppool.sql to create tables
+
+Powered by kohana, jquery and bootstrap.
+
+Enjoy.
